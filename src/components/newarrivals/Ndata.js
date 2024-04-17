@@ -1,28 +1,28 @@
 const Ndata = [
   {
-    cover: "./images/arrivals/arrivals1.png",
-    name: "Sunglass",
+    cover: "./images/products/clothing/men_suit.jpg",
+    name: "Men Suit",
+    price: "1500",
+  },
+  {
+    cover: "./images/products/clothing/women_brocket.jpg",
+    name: "Handmade Brochet",
+    price: "2500",
+  },
+  {
+    cover: "./images/products/metal_crafts/clock.jpeg",
+    name: "Table Clock",
+    price: "500",
+  },
+  {
+    cover: "./images/products/metal_crafts/sandclock.jpg",
+    name: "Sand Clock",
     price: "150",
   },
   {
-    cover: "./images/arrivals/arrivals2.png",
-    name: "Makeup",
-    price: "250",
-  },
-  {
-    cover: "./images/arrivals/arrivals3.png",
-    name: "Smart Watch",
-    price: "50",
-  },
-  {
-    cover: "./images/arrivals/arrivals4.png",
-    name: "Lipstick",
-    price: "15",
-  },
-  {
-    cover: "./images/arrivals/arrivals5.png",
-    name: "Green Plant",
-    price: "10",
+    cover: "./images/products/metal_crafts/phonograph.jpg",
+    name: "Phonograph",
+    price: "100",
   },
   {
     cover: "./images/arrivals/arrivals6.png",

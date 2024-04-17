@@ -13,8 +13,8 @@ const Search = ({ CartItem }) => {
     <>
       <section className='search'>
         <div className='container c_flex'>
-          <div className='logo width '>
-            <img src={logo} alt='' />
+          <div className='logo width'>
+            <h1>RelicRealm</h1>
           </div>
 
           <div className='search-box f_flex'>
@@ -28,7 +28,7 @@ const Search = ({ CartItem }) => {
             <div className='cart'>
               <Link to='/cart'>
                 <i className='fa fa-shopping-bag icon-circle'></i>
-                <span>{CartItem.length === 0 ? "" : CartItem.length}</span>
+                {/* <span>{CartItem.length === 0 ? "" : CartItem.length}</span> */}
               </Link>
             </div>
           </div>
