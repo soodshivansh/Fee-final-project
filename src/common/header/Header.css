@@ -1,5 +1,5 @@
 /*------head-----------*/
-.head {
+/* .head {
   background-color: #0f3460;
   padding: 10px 0;
   color: #fff;
@@ -10,15 +10,22 @@
 .head label {
   margin-right: 30px;
   font-size: 13px;
-}
+} */
 /*------head-----------*/
 /*------search-----------*/
 .search {
-  padding: 20px 0;
+  padding: 20px 20px;
+  margin-left: 23px;
+  /* margin-bottom: 5px; */
 }
 .search .logo img {
   width: auto;
   height: auto;
+  
+}
+.search h1{
+  font-size: 25px;
+  font-weight: bold;
 }
 .search .width {
   width: 20%;
@@ -31,7 +38,7 @@
 .search-box i {
   width: 5%;
   text-align: center;
-  font-size: 20px;
+  font-size: 400px;
   opacity: 0.5;
   padding: 15px 20px;
   font-size: 17px;
@@ -68,7 +75,7 @@
   justify-content: end;
 }
 /*------search-----------*/
-.catgrories {
+/* .catgrories {
   background-color: #f6f9fc;
   padding: 0px 30px;
   border-radius: 5px;
@@ -76,7 +83,7 @@
   margin-top: 5px;
 }
 .catgrories span {
-  margin-right: 20px;
+  margin-right: 200px;
   font-size: 30px;
   margin-top: 10px;
 }
@@ -86,21 +93,23 @@
 }
 .catgrories h4 i {
   margin-left: 10px;
-}
+} */
 header {
   height: 8vh;
   box-shadow: -1px 15px 17px -8px rgba(0, 0, 0, 0.1);
 }
 header ul {
-  line-height: 8vh;
+  float: right;
+  margin-left: 260px;
 }
 header ul li {
-  margin-left: 30px;
+  margin-left: 60px;
 }
 header ul li a {
   transition: 0.5s;
-  font-size: 15px;
-  font-weight: 400;
+  font-size: 17px;
+  font-weight: 450;
+  
 }
 header ul li a:hover {
   color: #ff014f;

@@ -40,9 +40,9 @@ function App() {
           <Route path='/' exact>
             <Pages productItems={productItems} addToCart={addToCart} shopItems={shopItems} />
           </Route>
-          {/* <Route path='/cart' exact>
+          <Route path='/cart' exact>
             <Cart CartItem={CartItem} addToCart={addToCart} decreaseQty={decreaseQty} />
-          </Route> */}
+          </Route>
         </Switch>
         <Footer />
       </Router>

@@ -7,8 +7,8 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>RelicRealm</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <h1>Retro Revival</h1>
+            <p>Retro Revival, where the past finds its place in the present. Explore our vintage marketplace, where timeless treasures await discovery. Embrace nostalgia as you browse through curated collections of retro gems. Join us on a journey through the eras, where every item tells a story at Retro Revival.</p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
@@ -44,9 +44,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Main Mall Road opposite Hrtc Bus Stnd Manali  </li>
+              <li>Email: shiv@14makhija.com</li>
+              <li>Phone: 9810XXXXXX</li>
             </ul>
           </div>
         </div>

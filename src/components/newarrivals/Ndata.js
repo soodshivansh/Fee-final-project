@@ -25,8 +25,8 @@ const Ndata = [
     price: "100",
   },
   {
-    cover: "./images/arrivals/arrivals6.png",
-    name: "Bonsai tree",
+    cover: "./images/products/clothing/men_suit.jpg",
+    name: "Men Suit",
     price: "400",
   },
 ]
